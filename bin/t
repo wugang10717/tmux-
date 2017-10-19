@@ -1,0 +1,4 @@
+#!/bin/bash
+# after logout, input t, session name will change to primitive
+
+echo -ne '\ekbash\e\\'
